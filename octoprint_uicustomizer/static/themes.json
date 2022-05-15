@@ -41,6 +41,12 @@
     "desc": "Flat and clean",
     "org": "https://bootswatch.com/2/flatly/"
   },
+  "bleu":{
+    "t": "./plugin/uicustomizer/static/themes/thumbs/bleu.png",
+    "name": "Bleu",
+    "desc": "Flat, clean, and bleu",
+    "org": false
+  },
   "default":{
     "t": "./plugin/uicustomizer/static/themes/thumbs/default.png",
     "name": "Default",
